@@ -1,13 +1,13 @@
 # Task 1: Build a moon on webpage
 
-1. Create a page with black background.
+1. Create a page with a black background.
 2. Create a white circle that represents the moon.
-3. The diameter of the moon should roughly the same to the diameter of real moon when it is observed on earth, this applies to all devices.
-4. The moon should always be on the 1/4 to the right of the viewport and 1/5 to the top of viewport.
-5. When the moon is clicked, the moon will be enlarged and gradually transform into a rectangular box that is positioned in the vertical and horizontal center of the viewport with explaination of "how did you calculate the diameter of the moon" in it. If there are too many text for the box, scrollbar is allowed.
+3. The diameter of the moon should roughly be the same to the diameter of real moon when it is observed from earth, this applies to all devices.
+4. The moon should always be positioned on the right side of the viewport about 1/4 of the screen. And 1/5 from the top of the viewport.
+5. When the moon is clicked, the moon will be enlarged and gradually transform into a rectangular box that is positioned in the vertical and horizontal center of the viewport (middle of the screen) with an explaination of "how did you calculate the diameter of the moon" in it. If there is too much text to display, a scrollbar is allowed.
 
 # Task 2: Runaway rabbit
 
-1. Animate and create a rabbit on web page with the sprite sheet in `resources` folder.
-2. The rabbit will runs away when mouse get closer.
-3. Try to find a reasonable solution for devices that doesn't have a mouse.
+1. Animate and create a rabbit on a web page with the sprite sheet under `resources` folder.
+2. The rabbit will run away when the mouse gets closer to it.
+3. Try to find a reasonable solution for devices that don't have a mouse.
