@@ -11,3 +11,11 @@
 1. Create a cat on web page and animate it with the sprite sheet in `resources` folder.
 2. The cat will run away when the mouse gets closer to it.
 3. Try to find a reasonable solution for devices that don't have a mouse.
+
+
+# A few words before you start
+
+1. It is OK if your implementations are not perfect.
+2. You are allowed to use any library but please don't copy the answer straight from somewhere else.
+3. We won't check your answer with IE5.5 and Netscapes, latest browsers please.
+4. If you have time and you want to add transition animation, building process, tests ... etc etc for the little projects, you are more than welcome to do it.
